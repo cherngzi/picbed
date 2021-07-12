@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T14:39:56.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="fo3VKP7ycT61daDDVBHh" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T14:43:10.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="vyn0fPlfAYwcDqUX15p9" version="14.8.5" type="github">
   <diagram id="V-6m_NwFq4gXoD0rBfcP" name="第 1 页">
     <mxGraphModel dx="782" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,27 +73,27 @@
         </mxCell>
         <mxCell id="1AelOA58KQmOz5EdAIKz-16" value="52%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1AelOA58KQmOz5EdAIKz-1">
           <mxGeometry x="0.7206" relative="1" as="geometry">
-            <mxPoint y="-5" as="offset" />
+            <mxPoint y="-36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1AelOA58KQmOz5EdAIKz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sO1tLJxpwsdW4ACIzt9C-1" target="QYJpgiB3iLfZ49pySutd-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="270" />
-              <mxPoint x="190" y="270" />
+              <mxPoint x="200" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1AelOA58KQmOz5EdAIKz-10" value="75%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1AelOA58KQmOz5EdAIKz-2">
           <mxGeometry x="0.4645" relative="1" as="geometry">
-            <mxPoint y="33" as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sO1tLJxpwsdW4ACIzt9C-1" value="山西新泰钢铁有限公司" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="220" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QYJpgiB3iLfZ49pySutd-2" value="上海晋泰100%股权" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="390" width="100" height="70" as="geometry" />
+          <mxGeometry x="130" y="390" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1AelOA58KQmOz5EdAIKz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1AelOA58KQmOz5EdAIKz-4" target="QYJpgiB3iLfZ49pySutd-2">
           <mxGeometry relative="1" as="geometry">
@@ -104,7 +104,7 @@
         </mxCell>
         <mxCell id="1AelOA58KQmOz5EdAIKz-12" value="12.75%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1AelOA58KQmOz5EdAIKz-7">
           <mxGeometry x="-0.5442" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1AelOA58KQmOz5EdAIKz-4" value="李培兵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -113,8 +113,8 @@
         <mxCell id="1AelOA58KQmOz5EdAIKz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1AelOA58KQmOz5EdAIKz-5" target="QYJpgiB3iLfZ49pySutd-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="270" />
-              <mxPoint x="160" y="270" />
+              <mxPoint x="150" y="290" />
+              <mxPoint x="150" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -126,12 +126,14 @@
         <mxCell id="1AelOA58KQmOz5EdAIKz-5" value="姜晓东" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1AelOA58KQmOz5EdAIKz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.909;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1AelOA58KQmOz5EdAIKz-14" target="fyVdFYr6qyUAHVgFFjLC-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1AelOA58KQmOz5EdAIKz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1AelOA58KQmOz5EdAIKz-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1AelOA58KQmOz5EdAIKz-17" value="46%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1AelOA58KQmOz5EdAIKz-15">
           <mxGeometry x="-0.1937" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1AelOA58KQmOz5EdAIKz-14" value="山西安泰集团股份有限公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
